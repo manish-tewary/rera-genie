@@ -1,0 +1,9 @@
+streamlit
+langchain
+tiktoken
+openai==0.28.1
+PyPDF2
+python-dotenv
+faiss-cpu
+InstructorEmbedding
+sentence_transformers
